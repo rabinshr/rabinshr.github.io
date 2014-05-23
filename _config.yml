@@ -1,0 +1,9 @@
+name: "Test site"
+description: "This is Rabin Raj Shrestha"
+
+url: "http://www.rabinshr.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
